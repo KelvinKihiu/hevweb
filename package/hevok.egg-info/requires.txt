@@ -1,0 +1,5 @@
+Tempita>=0.5.2
+watchdog>=0.8.3
+WebOb>=1.7.4
+Jinja2>=2.10
+docopt

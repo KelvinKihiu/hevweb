@@ -1,0 +1,4 @@
+.vs/*
+__pycache__/*
+package/__pycache__/*
+dist/*

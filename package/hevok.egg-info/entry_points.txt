@@ -1,0 +1,3 @@
+[console_scripts]
+hevok = hevok.hevok_cli:main
+
